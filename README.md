@@ -1,7 +1,7 @@
 # Classify Particles into Gamma or Hadrons
 
 ## Goal
-To understand how to apply PCA for building the classification model and compare the performance of the model with PCA features and  the model with original features.
+This project make us understand how to apply PCA for building the classification model and compare the performance of the model with PCA features and  the model with original features.
 
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this project, I will classify particles into gamma(signal) or hadrons(background). Given that the features are correlated, I will perform PCA to get a new set of features, and select the features that contain the most information.<br/>
